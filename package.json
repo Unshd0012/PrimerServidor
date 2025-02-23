@@ -1,0 +1,21 @@
+{
+  "name": "primerservidor",
+  "version": "1.0.0",
+  "description": "Este proyecto demuestra cómo crear un servidor en Node.js desde un simple \"Hola Mundo\" hasta un servidor asíncrono que lee y envía archivos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unshd0012/PrimerServidor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unshd0012/PrimerServidor/issues"
+  },
+  "homepage": "https://github.com/Unshd0012/PrimerServidor#readme"
+}
